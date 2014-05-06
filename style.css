@@ -1,6 +1,25 @@
 * {
-  color:#f00;
-  height: 100px;
+	background-color:#f00;
+	padding:0;
+	margin:0;
 }
-
-
+#top{
+	width:100%;
+	background-color:black;
+}
+#topcontent{
+	height:10px;
+	width:10px;
+	margin-left:50%;
+	background-color:grey;
+}
+#mid{
+	height:10px;
+	width:100%;
+	background-color:pink;
+}
+#bottom{
+	height:10px;
+	width:100%;
+	background-color:white;
+}
